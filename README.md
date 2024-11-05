@@ -1,5 +1,3 @@
-Certainly! Here’s a README file that you can use for your JavaScript Notes and Questions GitHub repository:
-
 ---
 
 # JavaScript Notes and Questions - What Matters 📚
