@@ -1,4 +1,3 @@
----
 
 # JavaScript Notes and Questions - What Matters 📚
 
