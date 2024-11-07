@@ -102,4 +102,4 @@ Feel free to contribute! If you have any additional concepts, corrections, or ne
 
 ## 📬 Contact
 
-If you have questions or want to connect, reach out on LinkedIn or GitHub. Happy coding! 😊
+If you have questions or want to connect, reach out on LinkedIn(https://www.linkedin.com/in/debanjali-lenka/) or GitHub. Happy coding! 😊
