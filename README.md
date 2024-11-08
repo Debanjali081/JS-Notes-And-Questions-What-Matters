@@ -21,7 +21,7 @@ Welcome to **JavaScript Notes and Questions - What Matters**! This repository is
 - [Understanding `this`, `call`, `apply`, and `bind`](#understanding-this-call-apply-and-bind)
 - [Pure Functions](#pure-functions)
 - [JavaScript Interview Questions](#javascript-interview-questions)
-- Asyn JavaScript
+- [Asyn JavaScript]
 
 ---
 
